@@ -31,7 +31,7 @@ def Read_data(file):
 
 #%% Reading the data
 
-Folder = 'New_setup/'
+Folder = 'New_setup/Test_2/'
 
 Data = {}
 
